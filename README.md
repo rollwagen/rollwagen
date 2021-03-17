@@ -6,7 +6,9 @@
 
 
 [![LinkedIn][1.1]][1]
+
 [1.1]: https://raw.githubusercontent.com/rollwagen/rollwagen/main/images/linkedin.png
+
 [1]: https://linkedin.com/in/markusrollwagen
 
 
