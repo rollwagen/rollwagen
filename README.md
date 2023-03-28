@@ -9,4 +9,6 @@
 </a>
 -->
 
+_This is a private GitHub account; content in here represent my own view points and not of past, current or future employer(s)._
+
 
